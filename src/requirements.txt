@@ -1,6 +1,6 @@
 gitdb==4.0.9
 GitPython==3.1.24
 numpy==1.22.3
-pandas @ file:///C:/ci/pandas_1618365634936/work
+pandas==1.2.4
 rdkit==2022.9.2
 streamlit==1.1.0

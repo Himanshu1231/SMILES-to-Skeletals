@@ -4,34 +4,21 @@
 #
 #    pip-compile
 #
-altair==4.1.0
-    # via streamlit
-astor==0.8.1
-    # via streamlit
 asttokens==2.2.1
     # via stack-data
 attrs==22.2.0
     # via
     #   jsonschema
-    #   streamlit
 backcall==0.2.0
     # via ipython
 backports-zoneinfo==0.2.1
     # via
     #   pytz-deprecation-shim
     #   tzlocal
-base58==2.1.1
-    # via streamlit
-blinker==1.4
-    # via streamlit
-cachetools==4.2.4
-    # via streamlit
 certifi==2022.12.7
     # via requests
 charset-normalizer==2.0.12
     # via requests
-click==7.1.2
-    # via streamlit
 colorama==0.4.6
     # via ipython
 comm==0.1.2
@@ -50,8 +37,6 @@ executing==1.2.0
     # via stack-data
 gitdb==4.0.9
     # via gitpython
-gitpython==3.1.24
-    # via streamlit
 idna==3.4
     # via requests
 importlib-resources==5.4.0
@@ -120,16 +105,10 @@ platformdirs==2.6.2
     # via jupyter-core
 prompt-toolkit==3.0.36
     # via ipython
-protobuf==3.20.0
-    # via streamlit
 psutil==5.9.4
     # via ipykernel
 pure-eval==0.2.2
     # via stack-data
-pyarrow==5.0.0
-    # via streamlit
-pydeck==0.7.1
-    # via streamlit
 pygments==2.14.0
     # via ipython
 pyrsistent==0.19.3
@@ -186,8 +165,6 @@ tzdata==2021.5
     # via
     #   pytz-deprecation-shim
     #   tzlocal
-tzlocal==4.1
-    # via streamlit
 urllib3==1.26.14
     # via requests
 validators==0.18.2

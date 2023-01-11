@@ -161,8 +161,6 @@ smmap==5.0.0
     # via gitdb
 stack-data==0.6.2
     # via ipython
-streamlit==1.1.0
-    # via -r requirements.in
 toml==0.10.2
     # via streamlit
 toolz==0.12.0

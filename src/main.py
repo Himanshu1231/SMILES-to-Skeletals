@@ -36,7 +36,7 @@ with st.sidebar:
     st.title('SMILES to Skeletals')
     st.subheader(':copyright: 2022 Himanshu Jain')
     st.write('Email : [himjain567@gmail.com](himajain567@gmail.com)')
-    st.write('LinkedIn : https://www.linkedin.com/in/himanshujain1999/')
-    st.write('Github: https://github.com/Himanshu1231/')
+    st.write('LinkedIn : https://www.linkedin.com/in/himanshu-jain-in/')
+    st.write('Github: https://github.com/himanshu-jain-in/')
     st.write('This application has been built in [Python](https://www.python.org/) using [streamlit](https://streamlit.io/) and [rdkit](RDKithttps://www.rdkit.org)')
     

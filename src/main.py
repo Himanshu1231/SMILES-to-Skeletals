@@ -10,7 +10,7 @@ from rdkit import Chem
 from rdkit.Chem import Draw
 
 st.title('SMILES to Skeletals')
-st.write('This is an application that draws the [skeletal structure](https://en.wikipedia.org/wiki/Skeletal_formula#:~:text=The%20skeletal%20structure%20of%20an,or%20hydrogen%20are%20called%20heteroatoms.) of the molecule from it\'s [SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) structure. It has been built by [@Himanshu Jain](https://www.linkedin.com/in/himanshujain1999/)')
+st.write('This is an application that draws the [skeletal structure](https://en.wikipedia.org/wiki/Skeletal_formula#:~:text=The%20skeletal%20structure%20of%20an,or%20hydrogen%20are%20called%20heteroatoms.) of the molecule from it\'s [SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) structure. It has been built by [@Himanshu Jain]( https://www.linkedin.com/in/himanshu-jain-in/)')
 
 inp = st.text_input('Input SMILES structure',value = 'C1C(=O)CCC(=N)C1')
 
